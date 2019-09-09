@@ -1,5 +1,5 @@
 # python-projects
-Repository consists various projects including:
+Repository contains various projects including:
 
 Calculator - using Tkinter.ttk module
 
